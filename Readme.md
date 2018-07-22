@@ -4,4 +4,4 @@
 
 1.  打开命令行，输入``` $ npm install -g http-server```安装http-server.
 2. 安装完成后，cd到HTML文件所在目录，再输入 ``` $ http-server```开启服务器.
-3. 浏览器访问http://127.0.0.1:8080，点击index列表中的HTML文件即可访问网页.
+3. 浏览器访问http://127.0.0.1:8080 点击index列表中的HTML文件即可访问网页.
